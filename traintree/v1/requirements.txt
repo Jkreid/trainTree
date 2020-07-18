@@ -1,0 +1,2 @@
+statistics
+tensorflow==1.15
